@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lorenz Pepito
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter Dart
-- 💞️ I’m looking to collaborate on...
+- 🌱 I’m currently a Full Stack Developer
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me message me? You can email me at lrnzppto@gmail.com
 
 <!---
